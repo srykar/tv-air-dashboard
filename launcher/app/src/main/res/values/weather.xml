@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Empty until the builder explicitly chooses a forecast location and regional air feed. -->
+    <string name="weather_city" translatable="false"></string>
+    <string name="weather_latitude" translatable="false"></string>
+    <string name="weather_longitude" translatable="false"></string>
+    <string name="weather_loading" translatable="false">Set weather location</string>
+    <string name="haze_region" translatable="false"></string>
+    <string name="haze_region_label" translatable="false">Regional</string>
+    <string name="outdoor_heading" translatable="false">OUTDOOR</string>
+    <string name="indoor_heading" translatable="false">INDOOR · DYSON</string>
+</resources>
